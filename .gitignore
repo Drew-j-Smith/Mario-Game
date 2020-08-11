@@ -4,4 +4,4 @@ Release/
 *.filters
 *.user
 *.dll
-pdh.*
+pch.*
