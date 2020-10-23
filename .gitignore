@@ -5,3 +5,17 @@ Release/
 *.user
 *.dll
 pch.*
+
+*.exe
+*.out
+.vscode
+*.bat
+
+CMakeFiles
+Debug
+Win32
+*.cmake
+*.sln
+*.vcxproj
+*filters
+CMakeCache.txt
